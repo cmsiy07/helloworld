@@ -17,3 +17,4 @@ plt.subplot(1,2,2)
 plt.imshow(np.uint8(greyscale),cmap = plt.get_cmap('gray'))
 plt.show()
 
+#test
